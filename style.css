@@ -1,0 +1,68 @@
+*
+{
+	margin:0;
+	padding:0;
+	
+}
+#logo
+{
+	font-family:Arial;
+	color:blue;
+	font-size:30px;
+	line-height:60px;
+	padding: 0 20px;
+	text-align:center;
+	float:left;
+	font-weight:650;
+	text-decoration:none;
+}
+
+.navbar-nav li
+{
+	padding:0 10px;
+}
+
+.navbar-nav li a
+{
+	float:right;
+	text-align:left;
+}
+
+#nav-bar ul li a:hover
+{
+	color:#007bff!important;	
+}
+.navbar
+{
+	background:#fff;
+}
+
+.navbar-toggler
+{
+	border:none!important;
+}
+.nav-link
+{
+	color:#555!important;
+	font-weight:600;
+	font-size:16px;
+}
+#letter {
+color :white;
+float : left;
+}
+
+#contact {
+color :white;
+float: center;
+}
+
+#opening {
+color :white;
+float : right;
+}
+
+.w3-row{
+	background-color : black;
+}
+
